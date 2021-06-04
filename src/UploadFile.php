@@ -5,6 +5,7 @@
  */
 namespace Fangying;  // 注意命名空间与 composer.json 中的一致
 
+//测试下嘛 吃火锅
 class UploadFile
 {
     private $config = [
