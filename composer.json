@@ -1,0 +1,20 @@
+{
+    "name": "fangying/uploadfile",
+    "description": "这是测试",
+    "type": "library",
+    "require": {
+        "php": "^7.2"
+    },
+    "authors": [
+        {
+            "name": "fangying",
+            "email": "317074681@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Fangying\\": "src/"
+        }
+    }
+}
